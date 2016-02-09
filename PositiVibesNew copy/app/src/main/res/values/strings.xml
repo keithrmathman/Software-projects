@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="PositiVibes">MyAndroidApp</string>
+    <string name="photo_prompt">Choose a picture from...</string>
+
+    <string-array name="country_arrays">
+        <item>Gallery</item>
+        <item>Photos</item>
+        <item>Camera</item>
+
+    </string-array>
+
+    <string name="title_activity_next_slide">nextSlide</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_name">app-name</string>
+
+</resources>

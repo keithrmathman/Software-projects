@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/loudly_crying_face" android:duration="40" />
+    <item android:drawable="@drawable/crying_face" android:duration="90" />
+    <item android:drawable="@drawable/neutral_face" android:duration="90" />
+    <item android:drawable="@drawable/happy_face" android:duration="90" />
+    <item android:drawable="@drawable/smiling_face_with_open_mouth" android:duration="40" />
+</animation-list>
